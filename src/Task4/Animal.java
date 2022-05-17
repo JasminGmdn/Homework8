@@ -13,7 +13,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return String.format("Name: Vas'ka, age: 45, tail: soen't have.");
+        return String.format("Name: Vas'ka, age: 45, tail: doesn't have.");
     }
 
     public static void main(String[] args) {
