@@ -6,7 +6,7 @@ public class Monitor extends Device {
         int resolutionY;
 
         private Monitor(int resolutionX, int resolutionY){
-            super("Dell", 546, "MK235");
+            super("Samsung", 120, "AB1234567CD");
             this.resolutionX = resolutionX;
             this.resolutionY = resolutionY;
         }
